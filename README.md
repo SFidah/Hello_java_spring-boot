@@ -10,6 +10,7 @@ mvn clean compile
 mvn clean test
 mvn package
 mvn clean package
+mvn spring-boot:run
 ```
 
 ## Lancement projet Java 
