@@ -59,7 +59,7 @@ public class Client {
 		return sex;
 	}
 	public void setSex(String sex) {
-		this.sex = sex;
+		this.sex = sex
 	}
 	
 	
